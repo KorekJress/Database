@@ -21,9 +21,9 @@ public class Crud extends javax.swing.JFrame {
     Connection conn;
 
     String driver = "org.postgresql.Driver";
-    String koneksi = "jdbc:postgresql://localhost:5432/Pbo";
+    String koneksi = "jdbc:postgresql://localhost:5432/Toko";
     String user = "postgres";
-    String password = "yarde";
+    String password = "muhammad";
 
     public final void getAllData() {
         try {
